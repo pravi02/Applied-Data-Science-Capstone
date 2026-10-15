@@ -62,15 +62,6 @@ The **Decision Tree Classifier** was the best-performing model on the test set.
 
 By combining data collection, analysis, feature engineering, and model tuning, this project predicts Falcon 9 first stage landing success with strong accuracy. These predictions can help estimate launch costs and support competitive bids against SpaceX.
 
-## Repository Structure
-
-```
-├── data/        # Datasets and data-related scripts
-├── notebooks/   # Jupyter notebooks for each module
-├── scripts/     # Python scripts for data processing, visualization, and modeling
-├── dash_app/    # Plotly Dash interactive application
-└── README.md    # Project overview (you are here)
-```
 
 ## Acknowledgments
 
